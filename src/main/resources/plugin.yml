@@ -2,3 +2,6 @@ name: Annihilation_Class
 version: '${project.version}'
 main: net.cherryleaves.annihilation_class.Annihilation_Class
 api-version: '1.20'
+command:
+  class:
+    description: Mendoi kara koko kakanai
